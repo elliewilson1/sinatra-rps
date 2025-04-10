@@ -7,7 +7,7 @@ get("/") do
 
 end
 
-get("/Rock") do
+get("/rock") do
 
   moves = ["rock", "paper", "scissors"]
 
@@ -25,7 +25,7 @@ get("/Rock") do
 
 end
 
-get("/Paper") do
+get("/paper") do
 
   moves = ["rock", "paper", "scissors"]
 
@@ -43,7 +43,7 @@ get("/Paper") do
 
 end
 
-get("/Scissors") do
+get("/scissors") do
 
   moves = ["rock", "paper", "scissors"]
 
